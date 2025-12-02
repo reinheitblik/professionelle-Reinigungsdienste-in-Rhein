@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://reinheit-blick.b-cdn.net/sitemap.xml
+Sitemap: https://reinheitblik.github.io/professionelle-Reinigungsdienste-in-Rhein/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
